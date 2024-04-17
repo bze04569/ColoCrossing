@@ -19,16 +19,16 @@ ColoCrossing官网：[www.colocrossing.com](https://cloud.colocrossing.com/aff.p
 ### 美国VPS春季五折促销
 | 核心 | 内存 | 硬盘  | 流量 | 带宽   | 活动价 | 链接                                                       |
 |------|------|-------|------|--------|--------|------------------------------------------------------------|
-| 1核  | 1GB  | 25GB  | 20TB | 1Gbps  | $1.97  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid19)|
-| 2核  | 2GB  | 50GB  | 20TB | 1Gbps  | $3.47  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid20)|
-| 3核  | 4GB  | 100GB | 20TB | 1Gbps  | $6.97  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid21)|
-| 4核  | 8GB  | 165GB | 20TB | 1Gbps  | $12.47 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid22)|
-| 6核  | 12GB | 200GB | 20TB | 1Gbps  | $19.50 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid27)|
-| 8核  | 16GB | 330GB | 20TB | 1Gbps  | $22.50 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid28)|
+| 1核  | 1GB  | 25GB  | 20TB | 1Gbps  | $1.97  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=19)|
+| 2核  | 2GB  | 50GB  | 20TB | 1Gbps  | $3.47  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=20)|
+| 3核  | 4GB  | 100GB | 20TB | 1Gbps  | $6.97  | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=21)|
+| 4核  | 8GB  | 165GB | 20TB | 1Gbps  | $12.47 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=22)|
+| 6核  | 12GB | 200GB | 20TB | 1Gbps  | $19.50 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=27)|
+| 8核  | 16GB | 330GB | 20TB | 1Gbps  | $22.50 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=28)|
 
 ### 六五折云金属服务器
 | CPU  | 内存 | 硬盘  | 流量 | 带宽   | 活动价 | 链接                                                       |
 |------|------|-------|------|--------|--------|------------------------------------------------------------|
-| 4核  | 8GB  | 120GB | 20TB | 1Gbps  | $13.00 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid29)|
-| 8核  | 16GB | 250GB | 20TB | 1Gbps  | $24.70 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid30)|
-| 8核  | 32GB | 500GB | 20TB | 1Gbps  | $50.70 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid31)|
+| 4核  | 8GB  | 120GB | 20TB | 1Gbps  | $13.00 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=29)|
+| 8核  | 16GB | 250GB | 20TB | 1Gbps  | $24.70 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=30)|
+| 8核  | 32GB | 500GB | 20TB | 1Gbps  | $50.70 | [选择](https://cloud.colocrossing.com/aff.php?aff=556&pid=31)|
